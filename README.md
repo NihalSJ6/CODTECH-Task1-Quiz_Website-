@@ -1,6 +1,7 @@
 # Quiz Website
 
-1)<img width="770" alt="Screenshot 2024-08-26 at 11 01 38 PM" src="https://github.com/user-attachments/assets/b83c1258-2ca5-47df-b03c-6f2d6def1feb">
+1)
+<img width="770" alt="Screenshot 2024-08-26 at 11 01 38 PM" src="https://github.com/user-attachments/assets/b83c1258-2ca5-47df-b03c-6f2d6def1feb">
 
 2)<img width="770" alt="Screenshot 2024-08-26 at 11 01 49 PM" src="https://github.com/user-attachments/assets/42e5910f-ef8b-436a-986e-6face3ead474">
 
