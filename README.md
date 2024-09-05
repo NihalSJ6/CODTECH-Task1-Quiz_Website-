@@ -1,20 +1,19 @@
-Name : NIHAL SANJAY JASTI
+-**Name : NIHAL SANJAY JASTI**
+_**Company : CODTECH IT SOLUTIONS**
+-**ID : CT08DS7015**
+-**Domain : FrontEnd Web Development**
+-**Duration : Aug-Sept 2024**
+-**Mentor : Neela Santhosh Kumar**
 
-Company : CODTECH IT SOLUTIONS
-
-ID : CT08DS7015
-
-Domain : FrontEnd Web Development
-
-Duration : Aug-Sept 2024
-
-Mentor : Neela Santhosh Kumar
 
 ### Overview of the Project
 
+
 ### Project : INTERACTIVE QUIZ APPLICATION
 
+
 ### Objective : To create an Interactive web application using Front-end frameworks like HTML, CSS, JAVASCRIPT, with a start button to enable the quiz, and  Timer is there for every question. Based on our reply, whether you've marked the correct or wrong answer will also be displayed.
+
 
 ### Key activities:
 
@@ -22,12 +21,14 @@ Mentor : Neela Santhosh Kumar
 - **Question Management**
 - **User Interaction**
 - **Timer Implementation**
+  
 
 ### Technologies used :
 - **HTML**
 - **CSS**
 - **JAVASCRIPT**
 - **SCSS**
+  
 
 # Quiz Website
 
