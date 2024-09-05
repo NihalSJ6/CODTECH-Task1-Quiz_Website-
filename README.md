@@ -1,3 +1,10 @@
+Name : NIHAL SANJAY JASTI
+Company : CODTECH IT SOLUTIONS
+ID : CT08DS7015
+Domain : FrontEnd Web Development
+Duration : Aug-Sept 2024
+Mentor : Neela Santhosh Kumar
+
 # Quiz Website
 
 Download the Source code, and in any of the IDE's like Visual Studio Code, right click on the index.html file, hover around the [open with live server] and cilck it. Then, you can run the website locally on any of the browsers🚀⌨️
