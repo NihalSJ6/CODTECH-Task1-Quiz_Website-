@@ -11,13 +11,17 @@
 **Mentor :** Neela Santhosh Kumar
 
 
+
 ### Overview of the Project
+
 
 
 ### Project : INTERACTIVE QUIZ APPLICATION
 
 
+
 ### Objective : To create an Interactive web application using Front-end frameworks like HTML, CSS, JAVASCRIPT, with a start button to enable the quiz, and  Timer is there for every question. Based on our reply, whether you've marked the correct or wrong answer will also be displayed.
+
 
 
 ### Key activities:
@@ -27,6 +31,7 @@
 - **User Interaction**
 - **Timer Implementation**
   
+  
 
 ### Technologies used :
 - **HTML**
@@ -34,6 +39,7 @@
 - **JAVASCRIPT**
 - **SCSS**
   
+
 
 # Quiz Website
 
