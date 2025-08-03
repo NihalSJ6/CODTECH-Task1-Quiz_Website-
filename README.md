@@ -44,9 +44,9 @@ To create an Interactive web application using Front-end frameworks like HTML, C
 
 # Quiz Website
 
-Download the Source code, and in any of the IDE's like Visual Studio Code, right click on the index.html file, hover around the [open with live server] and cilck it. Then, you can run the website locally on any of the browsers🚀⌨️
+Download the Source code, and in any of the IDE's like Visual Studio Code, right click on the index.html file, hover around the [open with live server] and cilck it. Then, you can run the website locally on any of the browsers.
 
-### Screenshots⌨🚀⌨️🧑🏻‍💻
+### Screenshots
 
 **1.**
 <img width="770" alt="Screenshot 2024-08-26 at 11 01 38 PM" src="https://github.com/user-attachments/assets/b83c1258-2ca5-47df-b03c-6f2d6def1feb">
